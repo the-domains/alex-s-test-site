@@ -1,0 +1,28 @@
+name: "Alex's Test Site"
+favicon: null
+layout_spectrum: 0.8024389245547354
+typography_spectrum: 0.8333407579921186
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6307956799864769
+  lightness: 0.5315881238784641
+  saturation: 0.8412495171651244
+  rhythmicContrast: 0.26485164393670857
+purpose: []
