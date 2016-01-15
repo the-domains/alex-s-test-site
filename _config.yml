@@ -1,7 +1,7 @@
 name: "Alex's Test Site"
 favicon: null
-layout_spectrum: 0.8024389245547354
-typography_spectrum: 0.8333407579921186
+layout_spectrum: 0.33277
+typography_spectrum: 0.14058
 cta:
   domain: null
   bucket: null
